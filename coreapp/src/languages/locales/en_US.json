@@ -1,0 +1,34 @@
+{
+  "sidebar-pages": "Pages",
+  "sidebar-pages-blank-page": "Blank Page",
+  "sidebar-pages-error": "Error Pages",
+  "sidebar-view-profile": "View Profile",
+
+  "sidebar-pages-Organization": "Organization",
+  "sidebar-pages-library": "Library",
+  "sidebar-pages-Operations": "Operations",
+  "sidebar-pages-Warehousing": "Warehousing",
+  "sidebar-pages-intranet": "Intranet",
+  "sidebar-pages-Settings": "Settings",
+  
+  "sidebar-pages-profile": "Profile",
+ 
+  "sidebar-headers-tools": "Tools",
+
+  "components-page": "components-page",
+
+
+  "sidebar-team-menu": "Mein Team",
+  "sidebar-referee-menu": "Meine Aufträge",
+  "sidebar-team-dashboard": "Dashboard",
+  "sidebar-kader": "Kader",
+  "sidebar-playerregister": "Spieler Anmeldem",
+  "sidebar-captain": "Kapitan",
+  "sidebar-trainer": "Trainer",
+
+  "sidebar-assignments": "Meine Auftrage",
+  "sidebar-ref-dashboard": "Dashboard"
+
+
+}
+

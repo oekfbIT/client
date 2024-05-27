@@ -1,0 +1,16 @@
+[
+  {
+  "_id": "71C5CEAF-B3F5-4E52-AD66-1AF92669BADD",
+  "user_id": "USR_ID02",
+  "passwordHash": "$2b$12$EYHFxbHuDqMU.Ok9ACjHPuZzit9UApdOZDaj53nO/XSvY/oK9ibnm",
+    "email": "avi@oekfb.eu",
+  "type": "admin"
+  },
+  {
+    "_id": "73C5CEAF-B3F5-4E52-AD66-1AF92669BADD",
+    "user_id": "USR_ID03",
+    "passwordHash": "$2b$12$EYHFxbHuDqMU.Ok9ACjHPuZzit9UApdOZDaj53nO/XSvY/oK9ibnm",
+    "email": "eden@oekfb.eu",
+    "type": "admin"
+  }
+]

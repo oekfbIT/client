@@ -1,0 +1,168 @@
+[{
+  "_id": "0FD47FC6-3E22-49A2-A330-11CA746BF255",
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=W1",
+  "state": "wien",
+  "name": "1. Wiener Liga",
+  "code": "W1",
+  "level": 1
+},
+{
+  "_id": "5F029634-BDC3-463F-B633-DB409C568541",
+  "level": 2,
+  "state": "wien",
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=W2A",
+  "code": "W2A",
+  "name": "2. Wiener Liga A"
+},
+{
+  "_id": "16F7EA0E-1CAB-4993-AF8D-4BCE863AC33A",
+  "level": 2,
+  "name": "2. Wiener Liga B",
+  "state": "wien",
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=W2B",
+  "code": "W2B"
+},
+{
+  "_id": "1799E88D-82B7-469C-BAF9-47258DE9021A",
+  "name": "3. Wiener Liga A",
+  "state": "wien",
+  "level": 3,
+  "code": "W3A",
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=W3A"
+},
+{
+  "_id": "77F04A92-7E91-4C65-9E96-0FA1E1033805",
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=W3B",
+  "state": "wien",
+  "level": 3,
+  "code": "W3B",
+  "name": "3. Wiener Liga"
+},
+{
+  "_id": "088DA407-B1B3-4924-92E4-25BCB2D447CE",
+  "name": "4. Wiener Liga A",
+  "state": "wien",
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=W4A",
+  "level": 4,
+  "code": "W4A"
+},
+{
+  "_id": "F15419EE-9FE4-4435-B5E1-05CEAC9D907C",
+  "name": "4. Wiener Liga B",
+  "level": 4,
+  "state": "wien",
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=W4B",
+  "code": "W4B"
+},
+{
+  "_id": "53EE00FC-8588-42F4-B938-061F98C3969A",
+  "code": "W5A",
+  "state": "wien",
+  "level": 5,
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=W5A",
+  "name": "5. Wiener Liga A"
+},
+{
+  "_id": "693DDB37-2116-4108-8195-015F075D9D98",
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=W5B",
+  "code": "W5B",
+  "name": "5. Wiener Liga B",
+  "level": 5,
+  "state": "wien"
+},
+{
+  "_id": "32C2B797-D300-48C0-8BFD-9E6E960A3507",
+  "state": "wien",
+  "name": "6. Wiener Liga",
+  "code": "W6",
+  "level": 6,
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=W6"
+},
+{
+  "_id": "CA6DA5A5-18D2-43E8-AF45-7851BE1E5694",
+  "level": 1,
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=L1",
+  "code": "L1",
+  "name": "1. Liga Linz",
+  "state": "oberoesterreich"
+},
+{
+  "_id": "A20E3BAB-53B3-4E2A-89CC-D6D970B56E75",
+  "name": "2. Liga Linz",
+  "code": "L2",
+  "state": "oberoesterreich",
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=L2",
+  "level": 2
+},
+{
+  "_id": "3CA4E655-5ED0-4EA1-86BF-959C7ECEA322",
+  "state": "steiermark",
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=G1",
+  "level": 1,
+  "code": "G1",
+  "name": "1. Grazer Liga"
+},
+{
+  "_id": "D218B161-7803-4753-84C5-29BF47E93C8D",
+  "name": "2. Grazer Liga",
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=G2",
+  "state": "steiermark",
+  "level": 2,
+  "code": "G2"
+},
+{
+  "_id": "E171419D-C82E-4620-B691-B0D7BFEFB154",
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=SBZ",
+  "level": 1,
+  "code": "SBZ",
+  "state": "salzburg",
+  "name": "1. Salzburger Liga"
+},
+{
+  "_id": "320F6405-B5F7-434C-A702-1385CA73A50C",
+  "state": "tirol",
+  "level": 1,
+  "code": "INS",
+  "name": "1. Innsbruck Liga",
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=INS"
+},
+{
+  "_id": "30882EC3-EBD6-4704-9E49-0099F4A800E5",
+  "level": 2,
+  "code": "INS2",
+  "name": "2. Innsbruck Liga",
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=INS2",
+  "state": "tirol"
+},
+{
+  "_id": "384FCD08-86A6-467B-9142-6B45D3309F77",
+  "name": "1. Liga Bregenz",
+  "code": "BRE",
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=BRE",
+  "level": 1,
+  "state": "vorarlberg"
+},
+{
+  "_id": "ED8279BE-D20A-4A6A-91F6-C44AA7361506",
+  "state": "kaernten",
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=KLA",
+  "name": "1. Liga Klagenfurt",
+  "level": 1,
+  "code": "KLA"
+},
+{
+  "_id": "A6B48632-3467-4838-B38A-D4DE70AA60AB",
+  "baseURL": "https://www.oekfb.com/index.php?action=tabelle&liga=STP",
+  "name": "1. Liga ST. Pölten",
+  "state": "niederoesterreich",
+  "level": 1,
+  "code": "STP"
+},
+{
+  "_id": "1B610FFF-DB63-4AC3-878C-9543F5B35FA3",
+  "name": "Mannschaft aus der Liga ausgetreten",
+  "code": "NONE",
+  "level": 0,
+  "state": "ausgetreten",
+  "baseURL": ""
+}]

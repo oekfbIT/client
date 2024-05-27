@@ -1,0 +1,72 @@
+[{
+  "_id": "03D187D8-FCA7-46BD-9DDF-D85ED5D372D1",
+  "code": "STA",
+  "type": "kunstrasen",
+  "address": "Polgarstraße 523/1, 1220 Wien",
+  "schuhwerk": "kunstrasen",
+  "parking": true,
+  "flutlicht": true,
+  "name": "Sportplatz Stadlau",
+  "partnerSince": "2021/2022",
+  "homeTeam": "FC Stadlau"
+},
+{
+  "_id": "CD61B069-0C38-471D-9412-7FF36FB3733E",
+  "address": "Weissauweg 1, 1220 Wien",
+  "name": "Sportplatz SV Donau",
+  "code": "SVD",
+  "flutlicht": true,
+  "schuhwerk": "kunstrasen",
+  "homeTeam": "SV Donau",
+  "partnerSince": "2014/2015",
+  "parking": true,
+  "type": "kunstrasen"
+},
+{
+  "_id": "E8EEBF46-29E4-4DFE-8711-62C704ADC4FA",
+  "address": "Weikerlseestraße 71-73, 4030 Linz, Pichling",
+  "type": "kunstrasen",
+  "name": "Sportpark Pichling",
+  "schuhwerk": "kunstrasen",
+  "flutlicht": true,
+  "parking": true,
+  "homeTeam": "0",
+  "partnerSince": "2021/2022",
+  "code": "pichling"
+},
+{
+  "_id": "35FC0D26-C4BB-486E-A84C-06852A32D77A",
+  "name": "Stadion Gratkorn",
+  "flutlicht": true,
+  "parking": true,
+  "code": "GRA",
+  "partnerSince": "2018/2019",
+  "schuhwerk": "kunstrasen",
+  "address": "Sportplatzgase 7, 8101 Gratkorn",
+  "type": "kunstrasen",
+  "homeTeam": "FC Gratkorn"
+},
+{
+  "_id": "4FC3F2D5-B78B-4302-BA85-FE1FC7E07C01",
+  "code": "SZN",
+  "schuhwerk": "kunstrasen",
+  "parking": true,
+  "address": "Josef-Brandstätter-Straße 9, 5020 Salzburg",
+  "flutlicht": true,
+  "name": "Sportzentrum Liefering",
+  "partnerSince": "2021/2022",
+  "homeTeam": "0",
+  "type": "kunstrasen"
+},
+{
+  "_id": "82502A95-02A1-4BD7-B2FD-DFA71D5066CA",
+  "schuhwerk": "kunstrasen",
+  "homeTeam": "0",
+  "name": "Sportplatz Hötting West",
+  "flutlicht": true,
+  "code": "HOT",
+  "partnerSince": "2019/2020",
+  "address": "Franz-Baumann-Weg 8, 6020 Innsbruck",
+  "type": "kunstrasen",
+  "parking": true
+}]
