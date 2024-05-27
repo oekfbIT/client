@@ -2,7 +2,7 @@
 
 class AuthService {
     constructor() {
-        this.baseURL = "http://165.232.91.105:8080";
+        this.baseURL = "http://localhost:8080";
     }
 
     async login(email, password) {
