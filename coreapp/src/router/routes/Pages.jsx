@@ -34,7 +34,7 @@ const PagesRoutes = [
   {
     path: "/admin/",
     component: lazy(() => import("../../view/oekfb/admin")),
-    layout: "HorizontalLayout",
+    layout: "VerticalLayout",
   },
   {
     path: "/admin/user",

@@ -26,6 +26,7 @@ import FullLayout from "../layout/FullLayout";
 import SectionSelection from "./SectionSelection";
 import Login from "../view/pages/authentication/login";
 
+import MaintenanceView from "../view/pages/maintnance/MaintenanceView";
 import Error404 from "../view/pages/errors/404";
 
 export default function Router() {
@@ -139,7 +140,8 @@ export default function Router() {
                                 <Layouts.HorizontalLayout>
                                     {/*<ADMIN USE  />*/}
                                     {/*<SectionSelection/>*/}
-                                    <Login></Login>
+                                    {/*<Login></Login>*/}
+                                    <MaintenanceView></MaintenanceView>
                                 </Layouts.HorizontalLayout>
                         )
                     }}

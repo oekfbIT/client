@@ -39,6 +39,7 @@ class AuthService {
         }
     }
 
+
     async resetPassword() {
         // Implement reset password functionality here
     }
